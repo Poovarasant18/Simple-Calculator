@@ -85,7 +85,7 @@ function solve()
 		<tr>
 			<td><input type="button" value="." onclick="dis('.')"/> </td>
 			<td><input type="button" value="0" onclick="dis('0')"/> </td>
-				<td><input type="button" value="=" onclick="solve()"/> </td>
+			<td><input type="button" value="=" onclick="solve()"/> </td>
 			<td><input type="button" value="*" onclick="dis('*')"/> </td>
 		</tr>
 	</table></div></center>
